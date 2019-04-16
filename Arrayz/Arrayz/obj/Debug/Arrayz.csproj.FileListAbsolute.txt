@@ -1,0 +1,7 @@
+C:\Users\anuwat\source\repos\Arrayz\Arrayz\bin\Debug\Arrayz.exe.config
+C:\Users\anuwat\source\repos\Arrayz\Arrayz\bin\Debug\Arrayz.exe
+C:\Users\anuwat\source\repos\Arrayz\Arrayz\bin\Debug\Arrayz.pdb
+C:\Users\anuwat\source\repos\Arrayz\Arrayz\obj\Debug\Arrayz.csprojAssemblyReference.cache
+C:\Users\anuwat\source\repos\Arrayz\Arrayz\obj\Debug\Arrayz.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\Arrayz\Arrayz\obj\Debug\Arrayz.exe
+C:\Users\anuwat\source\repos\Arrayz\Arrayz\obj\Debug\Arrayz.pdb

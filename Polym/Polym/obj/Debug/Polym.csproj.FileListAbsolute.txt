@@ -1,0 +1,7 @@
+C:\Users\anuwat\source\repos\Polym\Polym\bin\Debug\Polym.exe.config
+C:\Users\anuwat\source\repos\Polym\Polym\bin\Debug\Polym.exe
+C:\Users\anuwat\source\repos\Polym\Polym\bin\Debug\Polym.pdb
+C:\Users\anuwat\source\repos\Polym\Polym\obj\Debug\Polym.csprojAssemblyReference.cache
+C:\Users\anuwat\source\repos\Polym\Polym\obj\Debug\Polym.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\Polym\Polym\obj\Debug\Polym.exe
+C:\Users\anuwat\source\repos\Polym\Polym\obj\Debug\Polym.pdb

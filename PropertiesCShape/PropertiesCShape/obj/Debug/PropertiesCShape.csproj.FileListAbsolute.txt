@@ -1,0 +1,6 @@
+C:\Users\anuwat\source\repos\PropertiesCShape\PropertiesCShape\bin\Debug\PropertiesCShape.exe.config
+C:\Users\anuwat\source\repos\PropertiesCShape\PropertiesCShape\bin\Debug\PropertiesCShape.exe
+C:\Users\anuwat\source\repos\PropertiesCShape\PropertiesCShape\bin\Debug\PropertiesCShape.pdb
+C:\Users\anuwat\source\repos\PropertiesCShape\PropertiesCShape\obj\Debug\PropertiesCShape.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\PropertiesCShape\PropertiesCShape\obj\Debug\PropertiesCShape.exe
+C:\Users\anuwat\source\repos\PropertiesCShape\PropertiesCShape\obj\Debug\PropertiesCShape.pdb

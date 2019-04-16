@@ -1,0 +1,7 @@
+C:\Users\anuwat\source\repos\ForEachL\ForEachL\bin\Debug\ForEachL.exe.config
+C:\Users\anuwat\source\repos\ForEachL\ForEachL\bin\Debug\ForEachL.exe
+C:\Users\anuwat\source\repos\ForEachL\ForEachL\bin\Debug\ForEachL.pdb
+C:\Users\anuwat\source\repos\ForEachL\ForEachL\obj\Debug\ForEachL.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\ForEachL\ForEachL\obj\Debug\ForEachL.exe
+C:\Users\anuwat\source\repos\ForEachL\ForEachL\obj\Debug\ForEachL.pdb
+C:\Users\anuwat\source\repos\ForEachL\ForEachL\obj\Debug\ForEachL.csprojAssemblyReference.cache

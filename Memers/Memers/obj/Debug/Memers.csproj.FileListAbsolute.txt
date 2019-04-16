@@ -1,0 +1,7 @@
+C:\Users\anuwat\source\repos\Memers\Memers\bin\Debug\Memers.exe.config
+C:\Users\anuwat\source\repos\Memers\Memers\bin\Debug\Memers.exe
+C:\Users\anuwat\source\repos\Memers\Memers\bin\Debug\Memers.pdb
+C:\Users\anuwat\source\repos\Memers\Memers\obj\Debug\Memers.csprojAssemblyReference.cache
+C:\Users\anuwat\source\repos\Memers\Memers\obj\Debug\Memers.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\Memers\Memers\obj\Debug\Memers.exe
+C:\Users\anuwat\source\repos\Memers\Memers\obj\Debug\Memers.pdb
